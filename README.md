@@ -108,7 +108,7 @@ Weakly Supervised:
 - [Interaction-Integrated Network for Natural Language Moment Localization](https://ieeexplore.ieee.org/abstract/document/9334438) - Ke Ning et al, 'TIP 2021'.
 - [Boundary Proposal Network for Two-Stage Natural Language Video Localization](https://arxiv.org/abs/2103.08109) - Shaoning Xiao et al, `AAAI 2021`.
 - [Context-Aware Biaffine Localizing Network for Temporal Sentence Grounding](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Context-Aware_Biaffine_Localizing_Network_for_Temporal_Sentence_Grounding_CVPR_2021_paper.html) - Liu et al, `CVPR 2021`. 
-- [Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2021/html/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.html) - Zeng et al, `CVPR 2021`. 
+- [Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2021/html/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.html) - Zeng et al, `CVPR 2021`.  :blush:
 - [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval With Transformers](https://openaccess.thecvf.com/content/CVPR2021/html/Miech_Thinking_Fast_and_Slow_Efficient_Text-to-Visual_Retrieval_With_Transformers_CVPR_2021_paper.html) - Miech et al, `CVPR 2021`. 
 - [Fast Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) - Gao et al, `ICCV 2021`.
 
